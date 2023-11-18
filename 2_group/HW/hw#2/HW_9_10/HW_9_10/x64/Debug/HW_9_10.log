@@ -1,0 +1,9 @@
+﻿  GraphicEditor.cpp
+C:\Users\leo01\OneDrive\문서\객체지향프로그래밍\HW_9_10\HW_9_10\Shape.h(9,22): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+  Line.cpp
+  Main.cpp
+C:\Users\leo01\OneDrive\문서\객체지향프로그래밍\HW_9_10\HW_9_10\Shape.h(9,22): error C2065: 'NULL': 선언되지 않은 식별자입니다.
+  Rect.cpp
+  UI.cpp
+  UI.h
+  코드를 생성하고 있습니다...
